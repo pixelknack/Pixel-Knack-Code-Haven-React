@@ -1,0 +1,417 @@
+.about-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  padding-top: var(--dl-space-space-fiveunits);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #1d1d1d;
+}
+.about-navlink {
+  display: contents;
+}
+.about-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  cursor: pointer;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  padding-left: var(--dl-space-space-tripleunit);
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.about-icon1 {
+  fill: var(--dl-color-gray-black);
+  color: #c2c2c2;
+}
+.about-text100 {
+  color: rgb(241, 241, 241);
+  padding: var(--dl-space-space-halfunit);
+  font-size: 1.3em;
+  text-align: left;
+}
+.about-container3 {
+  width: 519px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.about-text101 {
+  color: rgb(220, 220, 220);
+}
+.about-text102 {
+  color: rgb(196, 196, 196);
+}
+.about-text103 {
+  font-family: "Courier New";
+}
+.about-text104 {
+  font-family: "Courier New";
+}
+.about-text105 {
+  font-family: "Courier New";
+}
+.about-text106 {
+  font-size: 24px;
+  font-family: "Courier New";
+}
+.about-text107 {
+  font-family: "Courier New";
+}
+.about-text108 {
+  font-family: "Courier New";
+}
+.about-text109 {
+  font-family: "Courier New";
+}
+.about-text110 {
+  font-family: "Courier New";
+}
+.about-text111 {
+  font-family: "Courier New";
+}
+.about-text112 {
+  font-size: 24px;
+  font-family: "Courier New";
+}
+.about-text113 {
+  font-family: "Courier New";
+}
+.about-text114 {
+  font-family: "Courier New";
+}
+.about-text115 {
+  font-family: "Courier New";
+}
+.about-text116 {
+  font-family: "Courier New";
+}
+.about-text117 {
+  font-family: "Courier New";
+}
+.about-text118 {
+  font-family: "Courier New";
+}
+.about-text119 {
+  font-size: 24px;
+  font-family: "Courier New";
+}
+.about-text120 {
+  font-size: 24px;
+  font-family: "Courier New";
+}
+.about-text121 {
+  font-family: "Courier New";
+}
+.about-text122 {
+  font-family: "Courier New";
+}
+.about-text123 {
+  font-family: "Courier New";
+}
+.about-text124 {
+  font-family: "Courier New";
+}
+.about-text125 {
+  font-family: "Courier New";
+}
+.about-text126 {
+  font-size: 24px;
+  font-family: "Courier New";
+}
+.about-text127 {
+  font-family: "Courier New";
+}
+.about-text128 {
+  font-family: "Courier New";
+}
+.about-text129 {
+  font-family: "Courier New";
+}
+.about-text130 {
+  font-family: "Courier New";
+}
+.about-text131 {
+  font-family: "Courier New";
+}
+.about-text132 {
+  font-size: 24px;
+  font-family: "Courier New";
+}
+.about-text133 {
+  font-family: "Courier New";
+}
+.about-text134 {
+  font-family: "Courier New";
+}
+.about-text135 {
+  font-family: "Courier New";
+}
+.about-text136 {
+  font-family: "Courier New";
+}
+.about-text137 {
+  font-family: "Courier New";
+}
+.about-text138 {
+  font-size: 24px;
+  font-family: "Courier New";
+}
+.about-text139 {
+  font-family: "Courier New";
+}
+.about-text140 {
+  font-family: "Courier New";
+}
+.about-text141 {
+  font-family: "Courier New";
+}
+.about-text142 {
+  font-family: "Courier New";
+}
+.about-text143 {
+  font-family: "Courier New";
+}
+.about-text144 {
+  font-size: 24px;
+  font-family: "Courier New";
+}
+.about-text145 {
+  font-family: "Courier New";
+}
+.about-text146 {
+  font-family: "Courier New";
+}
+.about-text147 {
+  font-style: normal;
+  font-family: "Courier New";
+  font-weight: 700;
+}
+.about-text148 {
+  font-family: "Courier New";
+}
+.about-text149 {
+  font-family: "Courier New";
+}
+.about-text150 {
+  font-family: "Courier New";
+}
+.about-text151 {
+  font-family: "Courier New";
+}
+.about-text152 {
+  font-family: "Courier New";
+}
+.about-text153 {
+  font-style: normal;
+  font-family: "Courier New";
+  font-weight: 700;
+}
+.about-text154 {
+  font-family: "Courier New";
+}
+.about-text155 {
+  font-family: "Courier New";
+}
+.about-text156 {
+  font-family: "Courier New";
+}
+.about-text157 {
+  font-family: "Courier New";
+}
+.about-text158 {
+  font-family: "Courier New";
+}
+.about-text159 {
+  font-style: normal;
+  font-family: "Courier New";
+  font-weight: 700;
+}
+.about-text160 {
+  font-family: "Courier New";
+}
+.about-text161 {
+  font-family: "Courier New";
+}
+.about-text162 {
+  font-family: "Courier New";
+}
+.about-text163 {
+  font-family: "Courier New";
+}
+.about-text164 {
+  font-family: "Courier New";
+}
+.about-text165 {
+  font-style: normal;
+  font-family: "Courier New";
+  font-weight: 700;
+}
+.about-text166 {
+  font-family: "Courier New";
+}
+.about-text167 {
+  font-family: "Courier New";
+}
+.about-text168 {
+  font-family: "Courier New";
+}
+.about-text169 {
+  font-family: "Courier New";
+}
+.about-text170 {
+  font-family: "Courier New";
+}
+.about-text171 {
+  font-style: normal;
+  font-family: "Courier New";
+  font-weight: 700;
+}
+.about-text172 {
+  font-family: "Courier New";
+}
+.about-text173 {
+  font-family: "Courier New";
+}
+.about-text174 {
+  font-family: "Courier New";
+}
+.about-text175 {
+  font-family: "Courier New";
+}
+.about-text176 {
+  font-family: "Courier New";
+}
+.about-text177 {
+  font-style: normal;
+  font-family: "Courier New";
+  font-weight: 700;
+}
+.about-text178 {
+  font-family: "Courier New";
+}
+.about-text179 {
+  font-family: "Courier New";
+}
+.about-text180 {
+  font-family: "Courier New";
+}
+.about-text181 {
+  font-family: "Courier New";
+}
+.about-text182 {
+  font-family: "Courier New";
+}
+.about-text183 {
+  font-style: normal;
+  font-family: "Courier New";
+  font-weight: 700;
+}
+.about-text184 {
+  font-family: "Courier New";
+}
+.about-text185 {
+  font-family: "Courier New";
+}
+.about-text186 {
+  font-family: "Courier New";
+}
+.about-text187 {
+  font-family: "Courier New";
+}
+.about-text188 {
+  font-family: "Courier New";
+}
+.about-text189 {
+  font-family: "Courier New";
+}
+.about-text190 {
+  font-style: normal;
+  font-family: "Courier New";
+  font-weight: 700;
+}
+.about-text191 {
+  font-style: normal;
+  font-family: "Courier New";
+  font-weight: 700;
+}
+.about-text192 {
+  font-family: "Courier New";
+}
+.about-text193 {
+  font-family: "Courier New";
+}
+.about-text194 {
+  font-family: "Courier New";
+}
+.about-text195 {
+  font-family: "Courier New";
+}
+.about-text196 {
+  font-family: "Courier New";
+}
+.about-text197 {
+  font-style: normal;
+  font-family: "Courier New";
+  font-weight: 700;
+}
+.about-text198 {
+  font-family: "Courier New";
+}
+.about-text199 {
+  font-family: "Courier New";
+}
+.about-text200 {
+  font-family: "Courier New";
+}
+.about-text201 {
+  font-family: "Courier New";
+}
+.about-text202 {
+  font-family: "Courier New";
+}
+.about-text203 {
+  font-style: normal;
+  font-family: "Courier New";
+  font-weight: 700;
+}
+.about-text204 {
+  font-family: "Courier New";
+}
+.about-text205 {
+  font-family: "Courier New";
+}
+.about-text206 {
+  font-family: "Courier New";
+}
+.about-text207 {
+  font-family: "Courier New";
+}
+.about-text208 {
+  font-family: "Courier New";
+}
+.about-text209 {
+  font-style: normal;
+  font-family: "Courier New";
+  font-weight: 700;
+}
+.about-text210 {
+  font-family: "Courier New";
+}
+.about-text211 {
+  font-family: "Courier New";
+}
+.about-text212 {
+  font-family: "Courier New";
+}
+.about-text213 {
+  font-family: "Courier New";
+}
+.about-text214 {
+  font-family: "Courier New";
+}
